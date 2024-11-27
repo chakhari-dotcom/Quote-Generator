@@ -1,0 +1,17 @@
+.cover {
+    background-image: url("https://w0.peakpx.com/wallpaper/426/946/HD-wallpaper-nature-background-beautiful-green-nature.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    white-space: nowrap;
+    font-size: large;
+     
+    
+    
+  }
+ 
+  .card{
+    background-color: transparent;
+    color: white;
+    margin-top: 200px;
+  }
